@@ -22,3 +22,11 @@
 
 ---------
 ![SeungE's github stats](https://github-readme-stats.vercel.app/api?username=SeungEEE&show_icons=true&theme=dracula)
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/SeungEEE"
+  width="400"
+  height="200"
+/>
+</a>
