@@ -1,7 +1,4 @@
-<h3> Hi👋
-</h3>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeungEEE&count_bg=%23DD6487&title_bg=%23282A36&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## 안녕하세요. *이승진* 입니다.
 
 <h3 align="left">📚 Tech Stacks </h3>
 <div align="left">
@@ -21,12 +18,11 @@
 </div>
 
 ---------
-![SeungE's github stats](https://github-readme-stats.vercel.app/api?username=SeungEEE&show_icons=true&theme=dracula)
 
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/SeungEEE"
-  width="400"
-  height="200"
-/>
-</a>
+<div style="display: flex; align-items: center; justify-content: center; gap: 30px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeungEEE&show_icons=true&theme=dracula" width="500" height="200">
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/SeungEEE" width="400" height="200"/>
+  </a>
+</div>
+
