@@ -20,9 +20,9 @@
 ---------
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeungEEE&show_icons=true&theme=dracula" width="500" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeungEEE&show_icons=true&theme=dracula" width="400" height="150">
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/SeungEEE" width="400" height="200"/>
+    <img src="https://render.gitanimals.org/farms/SeungEEE" width="300" height="150"/>
   </a>
 </div>
 
