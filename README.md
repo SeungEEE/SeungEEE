@@ -1,6 +1,6 @@
 ## 안녕하세요. *이승진* 입니다.
 
-<h3 align="left">📚 Tech Stacks </h3>
+<h3 align="left">📚 Languages & Frameworks </h3>
 <div align="left">
     <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&logo=git&logoColor=white" />
     <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
