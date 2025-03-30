@@ -2,7 +2,7 @@
 
 <h3> 📌 Activities</h3>
 <ul>
-  <li>10th 글쓰는 개발자 모임 - 글또 (2024.10 ~ ) </li>
+  <li>10th 글쓰는 개발자 모임 - 글또 (2024.10 ~ 2024.03) </li>
   <li>6th UMC iOS Challenger (2024.03 ~ 2024.08)</li>
   <li>5th UMC iOS Challenger (2023.09 ~ 2024.02)</li>
 </ul>
