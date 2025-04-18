@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/Xcode-007ACC.svg?style=flat-square&logo=xcode&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-square&logo=notion&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=flat-square&logo=slack&logoColor=FFFFFF" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=flat-square&logo=slack&logoColor=FFFFFF" />&nbsp
+  <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=jira&logoColor=white" />
 </div>
 
 ---------
