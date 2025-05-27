@@ -1,12 +1,5 @@
 ## 안녕하세요. *이승진* 입니다.
 
-<h3> 📌 Activities</h3>
-<ul>
-  <li>10th 글쓰는 개발자 모임 - 글또 (2024.10 ~ 2025.03) </li>
-  <li>6th UMC iOS Challenger (2024.03 ~ 2024.08)</li>
-  <li>5th UMC iOS Challenger (2023.09 ~ 2024.02)</li>
-</ul>
-
 <h3 align="left">📚 Languages & Frameworks </h3>
 <div align="left">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=flat-square&logo=git&logoColor=white" />
