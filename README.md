@@ -18,13 +18,3 @@
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=flat-square&logo=slack&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=jira&logoColor=white" />
 </div>
-
----------
-
-<div style="display: flex; align-items: center; justify-content: center; gap: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeungEEE&show_icons=true&theme=dracula" width="350" height="150">
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/SeungEEE" width="320" height="145"/>
-  </a>
-</div>
-
