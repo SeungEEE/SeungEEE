@@ -18,4 +18,5 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=flat-square&logo=slack&logoColor=FFFFFF" />&nbsp
   <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=flat-square&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/androidstudio-3DDC84.svg?&style=flat-square&logo=androidstudio&logoColor=white"/>
 </div>
