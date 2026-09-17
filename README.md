@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/UIkit-2396F3?style=flat-square&logo=UIkit&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=Swift&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/kotlin-7F52FF.svg?&style=flat-square&logo=kotlin&logoColor=white"/>
 </div>
 
 <h3 align="left">🛠 Tools </h3>
