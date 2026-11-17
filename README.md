@@ -17,6 +17,6 @@
 
 - **글또**: 10th cohort. A tech blogging community for developers. (2024.10 - 2025.03)
 
-- **UMC**: 6th cohort. Won the Grand Prize at the 6th Ne(o)rdinary HACKATHON and presented at Busan Demoday. (2024.03 - 2024.08)
+- **UMC**: 6th cohort. Hackathon Grand Prize, Busan Demoday (2024.03 - 2024.08)
 
-- **UMC**: 5th cohort. Won the Popularity Award at the 5th UMC Demoday. (2023.09 - 2024.02)
+- **UMC**: 5th cohort. Demoday Popularity Award. (2023.09 - 2024.02)
